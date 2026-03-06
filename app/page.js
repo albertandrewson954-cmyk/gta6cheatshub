@@ -24,7 +24,7 @@ export default function HomePage() {
         <div className="relative z-10 text-center px-4 max-w-4xl mx-auto py-20">
           <div className="inline-block mb-4 px-4 py-1 rounded-full border border-primary/30 bg-primary/5 text-primary text-sm">500+ Cheats Available</div>
           <h1 className="font-heading text-5xl md:text-7xl lg:text-8xl neon-text-pink mb-4">GTA CHEAT CODES</h1>
-          <p className="text-text-secondary text-lg md:text-xl max-w-2xl mx-auto mb-8">The most complete GTA 5 &amp; GTA 6 cheat database. Updated daily.</p>
+          <p className="text-text-secondary text-lg md:text-xl max-w-2xl mx-auto mb-8">The most complete GTA 5 &amp; GTA 6 cheat database across all platforms. Updated daily.</p>
           <div className="max-w-xl mx-auto mb-8"><SearchBar /></div>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-10">
             <Link href="/gta5" className="px-8 py-4 bg-primary text-white font-bold rounded-lg text-lg transition-all hover:shadow-lg hover:shadow-primary/30 hover:-translate-y-0.5 min-h-[44px]">GTA 5 Cheats</Link>
