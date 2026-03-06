@@ -19,6 +19,7 @@ export const metadata = {
   twitter: { card: 'summary_large_image', title: 'GTA Cheats Hub', description: 'The most complete GTA 5 and GTA 6 cheat code database.' },
   robots: { index: true, follow: true },
   alternates: { canonical: 'https://gta6cheatshub.com' },
+  verification: { google: 'rhvWEX_AoKyPEIixU7R4i9qmz83cOtle2Ve3ymKbzeM' },
 };
 
 export default function RootLayout({ children }) {
