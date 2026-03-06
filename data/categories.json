@@ -1,0 +1,10 @@
+[
+  {"name":"Health & Armor","slug":"health","icon":"❤️","description":"Invincibility, max health, armor and explosive combat cheats","accentColor":"#ff006e","cheatCount":5},
+  {"name":"Weapons","slug":"weapons","icon":"🔫","description":"Spawn weapon sets, infinite ammo and special ammo cheats","accentColor":"#ff4444","cheatCount":5},
+  {"name":"Wanted Level","slug":"wanted-level","icon":"⭐","description":"Clear or raise your wanted level instantly","accentColor":"#ffaa00","cheatCount":2},
+  {"name":"Vehicles","slug":"vehicles","icon":"🚗","description":"Spawn helicopters, cars, bikes, planes and more","accentColor":"#00f5ff","cheatCount":14},
+  {"name":"World & Weather","slug":"weather","icon":"🌦️","description":"Change weather, gravity, game speed and world effects","accentColor":"#00ff88","cheatCount":9},
+  {"name":"Skills","slug":"skills","icon":"⚡","description":"Refill special abilities, drunk mode and director mode","accentColor":"#aa44ff","cheatCount":4},
+  {"name":"Fun","slug":"fun","icon":"🎮","description":"Moon gravity, super jump, skyfall and other fun cheats","accentColor":"#ff69b4","cheatCount":4},
+  {"name":"Money","slug":"money","icon":"💰","description":"There is no money cheat in GTA 5 — learn legitimate ways to earn cash","accentColor":"#00ff88","cheatCount":0}
+]

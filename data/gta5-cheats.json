@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "invincibility",
+    "title": "Invincibility / God Mode",
+    "slug": "invincibility",
+    "category": "health",
+    "description": "Become completely invincible for 5 minutes with the GTA 5 God Mode cheat. This cheat makes you immune to all damage including bullets, explosions and falls. Reactivate the cheat when the timer runs out to stay invincible.",
+    "platforms": {
+      "ps5": "Right, X, Right, Left, Right, R1, Right, Left, X, Triangle",
+      "ps4": "Right, X, Right, Left, Right, R1, Right, Left, X, Triangle",
+      "ps3": "Right, X, Right, Left, Right, R1, Right, Left, X, Triangle",
+      "xboxSeriesX": "Right, A, Right, Left, Right, RB, Right, Left, A, Y",
+      "xboxOne": "Right, A, Right, Left, Right, RB, Right, Left, A, Y",
+      "xbox360": "Right, A, Right, Left, Right, RB, Right, Left, A, Y",
+      "pcConsole": "PAINKILLER",
+      "pcPhone": "1-999-724-654-5537",
+      "inGamePhone": "1-999-724-654-5537"
+    },
+    "activationMethods": {
+      "controller": ["While in gameplay, do NOT pause the game", "Enter the button combination quickly: Right, X/A, Right, Left, Right, R1/RB, Right, Left, X/A, Triangle/Y", "A small confirmation will appear on screen if entered correctly", "You are now invincible for 5 minutes", "Re-enter the code before the timer expires to stay invincible"],
+      "phone": ["Pull up your in-game phone by pressing Up on the D-pad", "Navigate to the Contacts or Dial Pad", "Dial: 1-999-724-654-5537", "Press the call button to activate the cheat", "You will see a confirmation flash on screen"],
+      "pc": ["Method 1: Press the tilde key ~ to open the console", "Type PAINKILLER and press Enter", "Method 2: Open the in-game phone with Up arrow", "Dial 1-999-724-654-5537 and press call"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "This cheat lasts exactly 5 minutes and must be reactivated. Using this cheat will disable achievements and trophies for your current session. Save your game before activating.",
+    "faqs": [
+      {"question": "How long does the Invincibility cheat last in GTA 5?", "answer": "The Invincibility cheat lasts exactly 5 minutes from the moment you activate it. You need to re-enter the cheat code before the timer runs out to maintain your invincibility."},
+      {"question": "Can I use the Invincibility cheat in GTA Online?", "answer": "No, cheat codes do not work in GTA Online. They are only available in the single-player story mode. Using cheats or mods in GTA Online can result in a ban."},
+      {"question": "Does the God Mode cheat protect against everything?", "answer": "The Invincibility cheat protects you from bullets, explosions, fire, melee attacks, and fall damage. However, you can still drown if you stay underwater too long without a vehicle."},
+      {"question": "Will using Invincibility disable my achievements?", "answer": "Yes, activating any cheat code in GTA 5 will disable achievements and trophies for your current game session. Save your game before using cheats and reload to earn achievements again."},
+      {"question": "Can I use Invincibility during missions?", "answer": "Yes, you can activate the Invincibility cheat during most story missions. However, some scripted events may override the cheat's effects temporarily."}
+    ],
+    "tags": ["invincibility", "god mode", "health", "immortal", "damage"],
+    "dateAdded": "2024-01-15",
+    "popular": true
+  },
+  {
+    "id": "max-health-armor",
+    "title": "Max Health and Armor",
+    "slug": "max-health-armor",
+    "category": "health",
+    "description": "Instantly restore your health to full and add maximum armor with this GTA 5 cheat code. Perfect for when you are low on health during intense firefights. Works on all platforms including PS5, Xbox and PC.",
+    "platforms": {
+      "ps5": "Circle, L1, Triangle, R2, X, Square, Circle, Right, Square, L1, L1, L1",
+      "ps4": "Circle, L1, Triangle, R2, X, Square, Circle, Right, Square, L1, L1, L1",
+      "ps3": "Circle, L1, Triangle, R2, X, Square, Circle, Right, Square, L1, L1, L1",
+      "xboxSeriesX": "B, LB, Y, RT, A, X, B, Right, X, LB, LB, LB",
+      "xboxOne": "B, LB, Y, RT, A, X, B, Right, X, LB, LB, LB",
+      "xbox360": "B, LB, Y, RT, A, X, B, Right, X, LB, LB, LB",
+      "pcConsole": "TURTLE",
+      "pcPhone": "1-999-887-853",
+      "inGamePhone": "1-999-887-853"
+    },
+    "activationMethods": {
+      "controller": ["During gameplay without pausing", "Enter: Circle/B, L1/LB, Triangle/Y, R2/RT, X/A, Square/X, Circle/B, Right, Square/X, L1/LB, L1/LB, L1/LB", "Your health and armor bars will instantly fill up", "You can use this cheat as many times as needed"],
+      "phone": ["Press Up on the D-pad to open your phone", "Open the dial pad", "Dial: 1-999-887-853", "Press call to activate"],
+      "pc": ["Press ~ to open the console and type TURTLE", "Or open the phone and dial 1-999-887-853"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "This cheat can be used repeatedly with no cooldown. Unlike the Invincibility cheat, this does not make you invulnerable — it simply restores your health and armor to maximum. Achievements will be disabled for the current session.",
+    "faqs": [
+      {"question": "What is the difference between Max Health and Invincibility?", "answer": "Max Health and Armor instantly refills your health and armor bars but you can still take damage afterward. Invincibility makes you completely immune to damage for 5 minutes."},
+      {"question": "Can I use Max Health and Armor multiple times?", "answer": "Yes, you can use this cheat as many times as you want with no cooldown period. Simply re-enter the code whenever your health gets low."},
+      {"question": "Does this cheat also repair my vehicle?", "answer": "No, this cheat only affects your character's health and armor. It does not repair vehicles. There is no vehicle repair cheat in GTA 5."},
+      {"question": "Will this cheat work during missions?", "answer": "Yes, you can activate the Max Health and Armor cheat during missions to give yourself a health boost when you need it most."},
+      {"question": "Does armor stack with the health refill?", "answer": "Yes, this cheat gives you both full health and full armor simultaneously, giving you maximum damage protection."}
+    ],
+    "tags": ["health", "armor", "healing", "restore", "protection"],
+    "dateAdded": "2024-01-15",
+    "popular": true
+  },
+  {
+    "id": "explosive-melee",
+    "title": "Explosive Melee Attacks",
+    "slug": "explosive-melee",
+    "category": "health",
+    "description": "Turn your fists into deadly weapons with the Explosive Melee cheat in GTA 5. Every punch and kick creates a powerful explosion on impact. One of the most entertaining cheats in the game.",
+    "platforms": {
+      "ps5": "Right, Left, X, Triangle, R1, Circle, Circle, Circle, L2",
+      "ps4": "Right, Left, X, Triangle, R1, Circle, Circle, Circle, L2",
+      "ps3": "Right, Left, X, Triangle, R1, Circle, Circle, Circle, L2",
+      "xboxSeriesX": "Right, Left, A, Y, RB, B, B, B, LT",
+      "xboxOne": "Right, Left, A, Y, RB, B, B, B, LT",
+      "xbox360": "Right, Left, A, Y, RB, B, B, B, LT",
+      "pcConsole": "HOTHANDS",
+      "pcPhone": "1-999-468-42637",
+      "inGamePhone": "1-999-468-42637"
+    },
+    "activationMethods": {
+      "controller": ["During gameplay, enter the button combination", "Right, Left, X/A, Triangle/Y, R1/RB, Circle/B, Circle/B, Circle/B, L2/LT", "Your melee attacks now cause explosions", "Toggle off by re-entering the code"],
+      "phone": ["Open your phone with Up on D-pad", "Dial 1-999-468-42637", "Press call to activate explosive punches"],
+      "pc": ["Press ~ and type HOTHANDS", "Or dial 1-999-468-42637 on the in-game phone"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Explosive melee attacks can damage and destroy vehicles. Be careful near your own vehicle. The explosions can also attract police attention and raise your wanted level.",
+    "faqs": [
+      {"question": "Can Explosive Melee attacks destroy vehicles?", "answer": "Yes, explosive melee attacks are powerful enough to destroy vehicles in just a few hits. Be careful not to punch your own car by accident."},
+      {"question": "Do Explosive Melee attacks affect NPCs?", "answer": "Yes, any NPC hit with an explosive punch will be sent flying from the blast. This is one of the most entertaining cheats in the game."},
+      {"question": "Will Explosive Melee raise my wanted level?", "answer": "The explosions caused by your punches can attract police attention, especially if they damage vehicles or harm NPCs near officers."},
+      {"question": "Can I combine this with other cheats?", "answer": "Yes, Explosive Melee works great combined with Invincibility and Super Jump for maximum chaos and fun."},
+      {"question": "How do I turn off Explosive Melee?", "answer": "Re-enter the same cheat code to deactivate explosive melee attacks, or reload a save file."}
+    ],
+    "tags": ["explosive", "melee", "punches", "hothands", "combat"],
+    "dateAdded": "2024-02-10",
+    "popular": true
+  },
+  {
+    "id": "flaming-bullets",
+    "title": "Flaming Bullets",
+    "slug": "flaming-bullets",
+    "category": "health",
+    "description": "Set your enemies ablaze with the Flaming Bullets cheat in GTA 5. Every bullet you fire will ignite targets on impact, causing fire damage over time. Works with all weapons.",
+    "platforms": {
+      "ps5": "L1, R1, Square, R1, Left, R2, R1, Left, Square, Right, L1, L1",
+      "ps4": "L1, R1, Square, R1, Left, R2, R1, Left, Square, Right, L1, L1",
+      "ps3": "L1, R1, Square, R1, Left, R2, R1, Left, Square, Right, L1, L1",
+      "xboxSeriesX": "LB, RB, X, RB, Left, RT, RB, Left, X, Right, LB, LB",
+      "xboxOne": "LB, RB, X, RB, Left, RT, RB, Left, X, Right, LB, LB",
+      "xbox360": "LB, RB, X, RB, Left, RT, RB, Left, X, Right, LB, LB",
+      "pcConsole": "INCENDIARY",
+      "pcPhone": "1-999-462-363-4279",
+      "inGamePhone": "1-999-462-363-4279"
+    },
+    "activationMethods": {
+      "controller": ["During gameplay enter the sequence", "L1/LB, R1/RB, Square/X, R1/RB, Left, R2/RT, R1/RB, Left, Square/X, Right, L1/LB, L1/LB", "All your bullets now set targets on fire"],
+      "phone": ["Open phone and dial 1-999-462-363-4279", "Press call to activate"],
+      "pc": ["Press ~ and type INCENDIARY", "Or dial 1-999-462-363-4279"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Flaming bullets work with all firearms. Fire can spread to nearby objects and NPCs. Be cautious in enclosed areas as fire can damage you too if you are not using the Invincibility cheat.",
+    "faqs": [
+      {"question": "Do Flaming Bullets work with all weapons?", "answer": "Yes, the Flaming Bullets cheat applies to all firearms in your inventory, from pistols to sniper rifles and everything in between."},
+      {"question": "Can fire from Flaming Bullets spread?", "answer": "Yes, the fire caused by flaming bullets can spread to nearby objects, vehicles, and NPCs, creating chain reactions of destruction."},
+      {"question": "Can Flaming Bullets hurt me?", "answer": "If you shoot something too close to you, the resulting fire can damage your character. Use the Invincibility cheat to avoid this."},
+      {"question": "Do Flaming Bullets use extra ammo?", "answer": "No, flaming bullets use the same amount of ammunition as regular bullets. They simply add fire damage on top of normal bullet damage."},
+      {"question": "How do I deactivate Flaming Bullets?", "answer": "Re-enter the cheat code to toggle off flaming bullets, or reload a previous save file."}
+    ],
+    "tags": ["fire", "flaming", "bullets", "incendiary", "ammo"],
+    "dateAdded": "2024-02-10",
+    "popular": false
+  },
+  {
+    "id": "explosive-bullets",
+    "title": "Explosive Bullets",
+    "slug": "explosive-bullets",
+    "category": "health",
+    "description": "Make every bullet an explosive round with this devastating GTA 5 cheat code. Each shot creates a small explosion on impact, capable of destroying vehicles and causing massive damage.",
+    "platforms": {
+      "ps5": "Right, Square, X, Left, R1, R2, Left, Right, Right, L1, L1, L1",
+      "ps4": "Right, Square, X, Left, R1, R2, Left, Right, Right, L1, L1, L1",
+      "ps3": "Right, Square, X, Left, R1, R2, Left, Right, Right, L1, L1, L1",
+      "xboxSeriesX": "Right, X, A, Left, RB, RT, Left, Right, Right, LB, LB, LB",
+      "xboxOne": "Right, X, A, Left, RB, RT, Left, Right, Right, LB, LB, LB",
+      "xbox360": "Right, X, A, Left, RB, RT, Left, Right, Right, LB, LB, LB",
+      "pcConsole": "HIGHEX",
+      "pcPhone": "1-999-444-439",
+      "inGamePhone": "1-999-444-439"
+    },
+    "activationMethods": {
+      "controller": ["During gameplay enter the button combination", "Right, Square/X, X/A, Left, R1/RB, R2/RT, Left, Right, Right, L1/LB, L1/LB, L1/LB", "All bullets now explode on impact"],
+      "phone": ["Open phone and dial 1-999-444-439", "Press call to activate"],
+      "pc": ["Press ~ and type HIGHEX", "Or dial 1-999-444-439"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Explosive bullets are extremely powerful and can destroy vehicles in one or two shots. This will heavily attract police attention. Use with Invincibility for best results.",
+    "faqs": [
+      {"question": "How powerful are Explosive Bullets?", "answer": "Explosive bullets can destroy most vehicles in 1-2 shots and are lethal to NPCs instantly. They are one of the most destructive cheats in the game."},
+      {"question": "Can I combine Explosive and Flaming Bullets?", "answer": "No, you can only have one bullet type cheat active at a time. Activating one will deactivate the other."},
+      {"question": "Do Explosive Bullets work with sniper rifles?", "answer": "Yes, explosive bullets work with all firearms including sniper rifles, making for devastating long-range destruction."},
+      {"question": "Will Explosive Bullets raise my wanted level?", "answer": "Yes, the explosions will quickly attract police attention and can raise your wanted level rapidly."},
+      {"question": "Can Explosive Bullets damage me?", "answer": "Yes, if you shoot at close range the explosion can damage your character. Use the Invincibility cheat to stay safe."}
+    ],
+    "tags": ["explosive", "bullets", "ammo", "destruction", "combat"],
+    "dateAdded": "2024-02-10",
+    "popular": false
+  },
+  {
+    "id": "weapon-set-1",
+    "title": "Weapon Set 1",
+    "slug": "weapon-set-1",
+    "category": "weapons",
+    "description": "Instantly receive a full set of weapons including Knife, Pistol, Sawed-Off Shotgun, SMG, Assault Rifle, Sniper Rifle, RPG, Grenade and more with this GTA 5 weapon cheat.",
+    "platforms": {
+      "ps5": "Triangle, R2, Left, L1, X, Right, Triangle, Down, Square, L1, L1, L1",
+      "ps4": "Triangle, R2, Left, L1, X, Right, Triangle, Down, Square, L1, L1, L1",
+      "ps3": "Triangle, R2, Left, L1, X, Right, Triangle, Down, Square, L1, L1, L1",
+      "xboxSeriesX": "Y, RT, Left, LB, A, Right, Y, Down, X, LB, LB, LB",
+      "xboxOne": "Y, RT, Left, LB, A, Right, Y, Down, X, LB, LB, LB",
+      "xbox360": "Y, RT, Left, LB, A, Right, Y, Down, X, LB, LB, LB",
+      "pcConsole": "TOOLUP",
+      "pcPhone": "1-999-866-587",
+      "inGamePhone": "1-999-866-587"
+    },
+    "activationMethods": {
+      "controller": ["During gameplay enter the sequence", "Triangle/Y, R2/RT, Left, L1/LB, X/A, Right, Triangle/Y, Down, Square/X, L1/LB, L1/LB, L1/LB", "Weapons will appear in your inventory"],
+      "phone": ["Open phone and dial 1-999-866-587", "Press call to receive weapons"],
+      "pc": ["Press ~ and type TOOLUP", "Or dial 1-999-866-587"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "This gives you Weapon Set 1 which includes basic weapons. Use Weapon Set 2 or 3 for more advanced weaponry. Can be used multiple times to refill ammo.",
+    "faqs": [
+      {"question": "What weapons are in Weapon Set 1?", "answer": "Weapon Set 1 includes a Knife, Pistol, Sawed-Off Shotgun, SMG, Assault Rifle, Sniper Rifle, RPG, Grenades, and a Jerry Can."},
+      {"question": "Does using the weapon cheat refill my ammo?", "answer": "Yes, entering the weapon cheat again will refill ammunition for all weapons in that set."},
+      {"question": "Can I use all three weapon sets together?", "answer": "Yes, you can activate all three weapon sets to get a complete arsenal of every weapon available through cheats."},
+      {"question": "Do weapon cheats work in missions?", "answer": "Yes, weapon cheats work during missions and can give you a significant advantage in difficult fights."},
+      {"question": "Will I keep these weapons after reloading?", "answer": "No, weapons obtained through cheats will be lost if you reload a save. Only weapons purchased from Ammu-Nation are permanent."}
+    ],
+    "tags": ["weapons", "guns", "arsenal", "toolup"],
+    "dateAdded": "2024-01-15",
+    "popular": true
+  },
+  {
+    "id": "parachute",
+    "title": "Parachute Spawn",
+    "slug": "parachute",
+    "category": "weapons",
+    "description": "Instantly spawn a parachute with this GTA 5 cheat. Essential for surviving high falls and performing stunts from helicopters and tall buildings across Los Santos.",
+    "platforms": {
+      "ps5": "Left, Right, L1, L2, R1, R2, R2, Left, Left, Right, L1",
+      "ps4": "Left, Right, L1, L2, R1, R2, R2, Left, Left, Right, L1",
+      "ps3": "Left, Right, L1, L2, R1, R2, R2, Left, Left, Right, L1",
+      "xboxSeriesX": "Left, Right, LB, LT, RB, RT, RT, Left, Left, Right, LB",
+      "xboxOne": "Left, Right, LB, LT, RB, RT, RT, Left, Left, Right, LB",
+      "xbox360": "Left, Right, LB, LT, RB, RT, RT, Left, Left, Right, LB",
+      "pcConsole": "SKYDIVE",
+      "pcPhone": "1-999-759-3483",
+      "inGamePhone": "1-999-759-3483"
+    },
+    "activationMethods": {
+      "controller": ["Enter the code during gameplay", "Left, Right, L1/LB, L2/LT, R1/RB, R2/RT, R2/RT, Left, Left, Right, L1/LB"],
+      "phone": ["Open phone and dial 1-999-759-3483"],
+      "pc": ["Press ~ and type SKYDIVE", "Or dial 1-999-759-3483"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The parachute is added to your inventory. Press X/A while falling to deploy it. Great to use with Skyfall cheat.",
+    "faqs": [
+      {"question": "How do I deploy the parachute after spawning it?", "answer": "Press X on PlayStation or A on Xbox while falling to deploy the parachute. On PC, press the left mouse button."},
+      {"question": "Can I use the parachute cheat with Skyfall?", "answer": "Yes, combining the Parachute and Skyfall cheats lets you repeatedly skydive without dying from the fall."},
+      {"question": "Does the parachute disappear after use?", "answer": "Once you use the parachute and land, you will need to re-enter the cheat to get another one."},
+      {"question": "Can I steer the parachute?", "answer": "Yes, use the left stick or WASD keys to steer your parachute and control your descent direction."},
+      {"question": "Is the parachute useful in missions?", "answer": "Yes, having a parachute is essential for some missions and very helpful when jumping from helicopters or tall buildings."}
+    ],
+    "tags": ["parachute", "skydive", "fall", "flying"],
+    "dateAdded": "2024-02-15",
+    "popular": false
+  },
+  {
+    "id": "clear-wanted",
+    "title": "Clear Wanted Level",
+    "slug": "clear-wanted-level",
+    "category": "wanted-level",
+    "description": "Instantly remove all wanted stars and escape the police with the Clear Wanted Level cheat in GTA 5. The most useful cheat for getting cops off your back immediately on any platform.",
+    "platforms": {
+      "ps5": "R1, R1, Circle, R2, Right, Left, Right, Left, Right, Left",
+      "ps4": "R1, R1, Circle, R2, Right, Left, Right, Left, Right, Left",
+      "ps3": "R1, R1, Circle, R2, Right, Left, Right, Left, Right, Left",
+      "xboxSeriesX": "RB, RB, B, RT, Right, Left, Right, Left, Right, Left",
+      "xboxOne": "RB, RB, B, RT, Right, Left, Right, Left, Right, Left",
+      "xbox360": "RB, RB, B, RT, Right, Left, Right, Left, Right, Left",
+      "pcConsole": "LAWYERUP",
+      "pcPhone": "1-999-529-93787",
+      "inGamePhone": "1-999-529-93787"
+    },
+    "activationMethods": {
+      "controller": ["While being chased by police, enter", "R1/RB, R1/RB, Circle/B, R2/RT, Right, Left, Right, Left, Right, Left", "All wanted stars immediately disappear"],
+      "phone": ["Open phone and dial 1-999-529-93787", "Press call to clear your wanted level"],
+      "pc": ["Press ~ and type LAWYERUP", "Or dial 1-999-529-93787"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "This cheat works instantly at any wanted level from 1 to 5 stars. Police will immediately stop pursuing you. Can be used during missions.",
+    "faqs": [
+      {"question": "Does Clear Wanted Level work at 5 stars?", "answer": "Yes, this cheat works at any wanted level including the maximum 5 stars. All police pursuit stops immediately."},
+      {"question": "Can I use this cheat during missions?", "answer": "Yes, you can clear your wanted level during missions. However, some mission objectives may require you to have or maintain a wanted level."},
+      {"question": "Do police remember me after clearing wanted level?", "answer": "No, once you clear your wanted level, police act as if nothing happened. You start with a clean slate."},
+      {"question": "Can I use this in a police chase?", "answer": "Yes, you can enter the cheat mid-chase while police are actively pursuing you and they will immediately break off."},
+      {"question": "Is this the most useful cheat in GTA 5?", "answer": "Many players consider this the most useful cheat as police chases can become overwhelming, especially at 4-5 star levels."}
+    ],
+    "tags": ["wanted", "police", "cops", "stars", "escape", "lawyerup"],
+    "dateAdded": "2024-01-15",
+    "popular": true
+  },
+  {
+    "id": "raise-wanted",
+    "title": "Raise Wanted Level",
+    "slug": "raise-wanted-level",
+    "category": "wanted-level",
+    "description": "Add one wanted star with the Raise Wanted Level cheat in GTA 5. Use this cheat to increase police aggression and trigger intense chases for maximum action and chaos.",
+    "platforms": {
+      "ps5": "R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right",
+      "ps4": "R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right",
+      "ps3": "R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right",
+      "xboxSeriesX": "RB, RB, B, RT, Left, Right, Left, Right, Left, Right",
+      "xboxOne": "RB, RB, B, RT, Left, Right, Left, Right, Left, Right",
+      "xbox360": "RB, RB, B, RT, Left, Right, Left, Right, Left, Right",
+      "pcConsole": "FUGITIVE",
+      "pcPhone": "1-999-384-48483",
+      "inGamePhone": "1-999-384-48483"
+    },
+    "activationMethods": {
+      "controller": ["During gameplay enter the code", "R1/RB, R1/RB, Circle/B, R2/RT, Left, Right, Left, Right, Left, Right", "One wanted star is added each time you enter it"],
+      "phone": ["Open phone and dial 1-999-384-48483"],
+      "pc": ["Press ~ and type FUGITIVE", "Or dial 1-999-384-48483"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Each activation adds one wanted star. Enter multiple times to reach 5 stars. Use with Invincibility for an intense but safe police battle experience.",
+    "faqs": [
+      {"question": "How many stars does this cheat add?", "answer": "Each time you enter the Raise Wanted Level cheat, it adds one wanted star. Enter it 5 times to reach maximum wanted level."},
+      {"question": "Can I get a 6 star wanted level?", "answer": "No, the maximum wanted level in GTA 5 is 5 stars. Entering the cheat at 5 stars has no additional effect."},
+      {"question": "Why would I want to raise my wanted level?", "answer": "Many players enjoy intense police chases and battles. Combining max wanted level with Invincibility creates exciting gameplay."},
+      {"question": "Does this work with Clear Wanted Level?", "answer": "Yes, you can use both cheats together — raise your wanted level for action, then clear it when you want to stop."},
+      {"question": "Can I use this during missions?", "answer": "Yes, but raising your wanted level during missions may make them significantly more difficult to complete."}
+    ],
+    "tags": ["wanted", "police", "stars", "fugitive", "chase"],
+    "dateAdded": "2024-02-20",
+    "popular": false
+  },
+  {
+    "id": "spawn-buzzard",
+    "title": "Spawn Buzzard Attack Helicopter",
+    "slug": "spawn-buzzard",
+    "category": "vehicles",
+    "description": "Instantly spawn a Buzzard Attack Helicopter with this GTA 5 cheat. The Buzzard is armed with missiles and machine guns making it the most popular vehicle cheat in the game.",
+    "platforms": {
+      "ps5": "Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle",
+      "ps4": "Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle",
+      "ps3": "Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle",
+      "xboxSeriesX": "B, B, LB, B, B, B, LB, LT, RB, Y, B, Y",
+      "xboxOne": "B, B, LB, B, B, B, LB, LT, RB, Y, B, Y",
+      "xbox360": "B, B, LB, B, B, B, LB, LT, RB, Y, B, Y",
+      "pcConsole": "BUZZOFF",
+      "pcPhone": "1-999-289-9633",
+      "inGamePhone": "1-999-289-9633"
+    },
+    "activationMethods": {
+      "controller": ["Find an open area for the helicopter to spawn", "Enter: Circle/B, Circle/B, L1/LB, Circle/B, Circle/B, Circle/B, L1/LB, L2/LT, R1/RB, Triangle/Y, Circle/B, Triangle/Y", "The Buzzard appears in front of you"],
+      "phone": ["Open phone and dial 1-999-289-9633", "The Buzzard spawns nearby"],
+      "pc": ["Press ~ and type BUZZOFF", "Or dial 1-999-289-9633"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The Buzzard comes equipped with missiles and a machine gun. It spawns directly in front of you so make sure you are in an open area. One of the most useful vehicle cheats for quick transportation.",
+    "faqs": [
+      {"question": "Does the Buzzard come with weapons?", "answer": "Yes, the spawned Buzzard is fully armed with homing missiles and a front-mounted machine gun."},
+      {"question": "Where should I be when spawning the Buzzard?", "answer": "Make sure you are in an open area like a road, parking lot, or field. The helicopter needs space to spawn properly."},
+      {"question": "Is the Buzzard the best vehicle to spawn?", "answer": "The Buzzard is widely considered the most useful vehicle cheat because it provides fast air travel and has weapons for combat."},
+      {"question": "Can I store a spawned Buzzard?", "answer": "Cheated vehicles cannot be stored in garages. If you leave the Buzzard, it will eventually despawn."},
+      {"question": "Can I use the Buzzard during missions?", "answer": "Yes, you can spawn a Buzzard during most missions for quick travel and air support during combat sections."}
+    ],
+    "tags": ["buzzard", "helicopter", "aircraft", "flying", "weapons"],
+    "dateAdded": "2024-01-15",
+    "popular": true
+  },
+  {
+    "id": "spawn-comet",
+    "title": "Spawn Comet Sports Car",
+    "slug": "spawn-comet",
+    "category": "vehicles",
+    "description": "Spawn a fast Comet sports car instantly with this GTA 5 vehicle cheat. The Comet is a Porsche-style two seater perfect for high speed driving around Los Santos.",
+    "platforms": {
+      "ps5": "R1, Circle, R2, Right, L1, L2, X, X, Square, R1",
+      "ps4": "R1, Circle, R2, Right, L1, L2, X, X, Square, R1",
+      "ps3": "R1, Circle, R2, Right, L1, L2, X, X, Square, R1",
+      "xboxSeriesX": "RB, B, RT, Right, LB, LT, A, A, X, RB",
+      "xboxOne": "RB, B, RT, Right, LB, LT, A, A, X, RB",
+      "xbox360": "RB, B, RT, Right, LB, LT, A, A, X, RB",
+      "pcConsole": "COMET",
+      "pcPhone": "1-999-266-38",
+      "inGamePhone": "1-999-266-38"
+    },
+    "activationMethods": {
+      "controller": ["Stand on a road or open area", "Enter: R1/RB, Circle/B, R2/RT, Right, L1/LB, L2/LT, X/A, X/A, Square/X, R1/RB", "The Comet spawns in front of you"],
+      "phone": ["Open phone and dial 1-999-266-38"],
+      "pc": ["Press ~ and type COMET", "Or dial 1-999-266-38"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The Comet is a fast sports car ideal for quick getaways and free roaming. Spawns directly in front of your character.",
+    "faqs": [
+      {"question": "How fast is the Comet?", "answer": "The Comet is one of the faster sports cars in GTA 5, based on the Porsche 911. It has great top speed and handling."},
+      {"question": "Can I customize a spawned Comet?", "answer": "You can take it to Los Santos Customs for modifications, but you cannot store cheated vehicles in garages permanently."},
+      {"question": "What car is the Comet based on?", "answer": "The Pfister Comet is based on the Porsche 911, featuring a rear-engine rear-wheel drive layout."},
+      {"question": "Is the Comet good for racing?", "answer": "The Comet is a solid choice for general driving with good speed and decent handling. It is fun for cruising around the map."},
+      {"question": "Where does the car spawn?", "answer": "The Comet spawns directly in front of your character on the nearest road surface."}
+    ],
+    "tags": ["comet", "sports car", "fast", "porsche", "driving"],
+    "dateAdded": "2024-02-01",
+    "popular": false
+  },
+  {
+    "id": "spawn-limo",
+    "title": "Spawn Stretch Limo",
+    "slug": "spawn-limo",
+    "category": "vehicles",
+    "description": "Arrive in style by spawning a Stretch Limousine with this GTA 5 cheat code. The classic luxury limo is perfect for cruising through Los Santos like a VIP.",
+    "platforms": {
+      "ps5": "R2, Right, L2, Left, Left, R1, L1, Circle, Right",
+      "ps4": "R2, Right, L2, Left, Left, R1, L1, Circle, Right",
+      "ps3": "R2, Right, L2, Left, Left, R1, L1, Circle, Right",
+      "xboxSeriesX": "RT, Right, LT, Left, Left, RB, LB, B, Right",
+      "xboxOne": "RT, Right, LT, Left, Left, RB, LB, B, Right",
+      "xbox360": "RT, Right, LT, Left, Left, RB, LB, B, Right",
+      "pcConsole": "VINEWOOD",
+      "pcPhone": "1-999-846-39663",
+      "inGamePhone": "1-999-846-39663"
+    },
+    "activationMethods": {
+      "controller": ["Stand near a road and enter", "R2/RT, Right, L2/LT, Left, Left, R1/RB, L1/LB, Circle/B, Right"],
+      "phone": ["Open phone and dial 1-999-846-39663"],
+      "pc": ["Press ~ and type VINEWOOD", "Or dial 1-999-846-39663"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The Stretch Limo is a long vehicle so make sure you have enough road space when spawning it. Not the fastest vehicle but very fun to drive around.",
+    "faqs": [
+      {"question": "Can I use the limo as a getaway vehicle?", "answer": "The limo is not ideal for chases due to its size and slower speed, but it is fun for casual driving and roleplay."},
+      {"question": "How long is the Stretch Limo?", "answer": "The Stretch Limo is one of the longest vehicles in GTA 5. Make sure you spawn it on a straight road with plenty of space."},
+      {"question": "Can passengers ride in the back?", "answer": "Yes, NPCs and other characters can ride in the back of the limousine."},
+      {"question": "Is the Stretch Limo durable?", "answer": "The limo has average durability. It can take some hits but is not as tough as armored vehicles."},
+      {"question": "What is the limo based on?", "answer": "The Dundreary Stretch is based on a stretched Lincoln Town Car limousine."}
+    ],
+    "tags": ["limo", "limousine", "luxury", "stretch", "vinewood"],
+    "dateAdded": "2024-02-15",
+    "popular": false
+  },
+  {
+    "id": "spawn-trashmaster",
+    "title": "Spawn Trashmaster Truck",
+    "slug": "spawn-trashmaster",
+    "category": "vehicles",
+    "description": "Spawn a massive Trashmaster garbage truck with this GTA 5 cheat. The heavy duty truck is surprisingly durable and great for smashing through traffic.",
+    "platforms": {
+      "ps5": "Circle, R1, Circle, R1, Left, Left, R1, L1, Circle, Right",
+      "ps4": "Circle, R1, Circle, R1, Left, Left, R1, L1, Circle, Right",
+      "ps3": "Circle, R1, Circle, R1, Left, Left, R1, L1, Circle, Right",
+      "xboxSeriesX": "B, RB, B, RB, Left, Left, RB, LB, B, Right",
+      "xboxOne": "B, RB, B, RB, Left, Left, RB, LB, B, Right",
+      "xbox360": "B, RB, B, RB, Left, Left, RB, LB, B, Right",
+      "pcConsole": "TRASHED",
+      "pcPhone": "1-999-872-7433",
+      "inGamePhone": "1-999-872-7433"
+    },
+    "activationMethods": {
+      "controller": ["Enter the button combination during gameplay", "Circle/B, R1/RB, Circle/B, R1/RB, Left, Left, R1/RB, L1/LB, Circle/B, Right"],
+      "phone": ["Open phone and dial 1-999-872-7433"],
+      "pc": ["Press ~ and type TRASHED", "Or dial 1-999-872-7433"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The Trashmaster is slow but very heavy and durable. Great for plowing through traffic and causing chaos.",
+    "faqs": [
+      {"question": "Is the Trashmaster useful?", "answer": "While slow, the Trashmaster is extremely durable and heavy, making it great for plowing through traffic and police roadblocks."},
+      {"question": "Can the Trashmaster be destroyed easily?", "answer": "The Trashmaster is one of the tougher vehicles in the game and can take significant damage before being destroyed."},
+      {"question": "How fast is the Trashmaster?", "answer": "The Trashmaster is one of the slowest vehicles in GTA 5 but makes up for it with sheer mass and durability."},
+      {"question": "Why would I spawn a garbage truck?", "answer": "The Trashmaster is popular for fun gameplay — smashing through traffic, creating roadblocks, and general destruction."},
+      {"question": "Can I spawn it anywhere?", "answer": "You need an open area with enough room for the large truck to spawn. Roads and parking lots work best."}
+    ],
+    "tags": ["trashmaster", "truck", "garbage", "heavy", "durable"],
+    "dateAdded": "2024-03-01",
+    "popular": false
+  },
+  {
+    "id": "spawn-pcj600",
+    "title": "Spawn PCJ-600 Motorcycle",
+    "slug": "spawn-pcj600",
+    "category": "vehicles",
+    "description": "Spawn the PCJ-600 sport motorcycle instantly with this GTA 5 cheat code. A fast and nimble bike perfect for weaving through Los Santos traffic at high speed.",
+    "platforms": {
+      "ps5": "R1, Right, Left, Right, R2, Left, Right, Square, Right, L2, L1, L1",
+      "ps4": "R1, Right, Left, Right, R2, Left, Right, Square, Right, L2, L1, L1",
+      "ps3": "R1, Right, Left, Right, R2, Left, Right, Square, Right, L2, L1, L1",
+      "xboxSeriesX": "RB, Right, Left, Right, RT, Left, Right, X, Right, LT, LB, LB",
+      "xboxOne": "RB, Right, Left, Right, RT, Left, Right, X, Right, LT, LB, LB",
+      "xbox360": "RB, Right, Left, Right, RT, Left, Right, X, Right, LT, LB, LB",
+      "pcConsole": "ROCKET",
+      "pcPhone": "1-999-762-538",
+      "inGamePhone": "1-999-762-538"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "R1/RB, Right, Left, Right, R2/RT, Left, Right, Square/X, Right, L2/LT, L1/LB, L1/LB"],
+      "phone": ["Open phone and dial 1-999-762-538"],
+      "pc": ["Press ~ and type ROCKET", "Or dial 1-999-762-538"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The PCJ-600 is fast and agile but offers no protection from gunfire. Wear a helmet by walking into it rather than pressing enter.",
+    "faqs": [
+      {"question": "Is the PCJ-600 fast?", "answer": "Yes, the PCJ-600 is one of the faster motorcycles in GTA 5 with excellent acceleration and top speed."},
+      {"question": "How do I wear a helmet on the motorcycle?", "answer": "Walk into the motorcycle instead of pressing the enter vehicle button. Your character will put on a helmet automatically."},
+      {"question": "Is the PCJ-600 good for stunts?", "answer": "Yes, the PCJ-600 is lightweight and fast, making it decent for performing wheelies and jumps across the map."},
+      {"question": "What is the PCJ-600 based on?", "answer": "The Shitzu PCJ-600 is based on the Honda CBR600RR sport motorcycle."},
+      {"question": "Can I do wheelies on the PCJ-600?", "answer": "Yes, pull back on the left stick while accelerating to do a wheelie on any motorcycle including the PCJ-600."}
+    ],
+    "tags": ["motorcycle", "bike", "pcj", "fast", "sport"],
+    "dateAdded": "2024-02-20",
+    "popular": false
+  },
+  {
+    "id": "spawn-rapidgt",
+    "title": "Spawn Rapid GT Car",
+    "slug": "spawn-rapidgt",
+    "category": "vehicles",
+    "description": "Spawn the sleek Rapid GT sports car with this GTA 5 cheat. An Aston Martin inspired grand tourer with great speed and elegant styling for cruising Los Santos.",
+    "platforms": {
+      "ps5": "R2, L1, Circle, Right, L1, R1, Right, Left, Circle, R2",
+      "ps4": "R2, L1, Circle, Right, L1, R1, Right, Left, Circle, R2",
+      "ps3": "R2, L1, Circle, Right, L1, R1, Right, Left, Circle, R2",
+      "xboxSeriesX": "RT, LB, B, Right, LB, RB, Right, Left, B, RT",
+      "xboxOne": "RT, LB, B, Right, LB, RB, Right, Left, B, RT",
+      "xbox360": "RT, LB, B, Right, LB, RB, Right, Left, B, RT",
+      "pcConsole": "RAPIDGT",
+      "pcPhone": "1-999-727-4348",
+      "inGamePhone": "1-999-727-4348"
+    },
+    "activationMethods": {
+      "controller": ["Stand on a road and enter the code", "R2/RT, L1/LB, Circle/B, Right, L1/LB, R1/RB, Right, Left, Circle/B, R2/RT"],
+      "phone": ["Open phone and dial 1-999-727-4348"],
+      "pc": ["Press ~ and type RAPIDGT", "Or dial 1-999-727-4348"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The Rapid GT is a stylish grand tourer with good speed and handling. Spawns on the nearest road surface.",
+    "faqs": [
+      {"question": "What car is the Rapid GT based on?", "answer": "The Dewbauchee Rapid GT is based on the Aston Martin V8 Vantage with some design elements from other British sports cars."},
+      {"question": "How fast is the Rapid GT?", "answer": "The Rapid GT has good top speed and acceleration, making it one of the better sports cars available through cheats."},
+      {"question": "Is the Rapid GT convertible?", "answer": "The standard Rapid GT is a coupe. There is a convertible version in the game but the cheat spawns the hardtop version."},
+      {"question": "Can I modify the Rapid GT?", "answer": "Yes, you can take it to Los Santos Customs for visual and performance modifications."},
+      {"question": "Is this a good car for missions?", "answer": "The Rapid GT is a solid all-around sports car suitable for most missions and general driving around the map."}
+    ],
+    "tags": ["rapidgt", "sports car", "aston martin", "fast", "gt"],
+    "dateAdded": "2024-03-05",
+    "popular": false
+  },
+  {
+    "id": "spawn-duster",
+    "title": "Spawn Duster Crop Plane",
+    "slug": "spawn-duster",
+    "category": "vehicles",
+    "description": "Spawn a Duster crop duster plane with this GTA 5 cheat code. A small propeller aircraft perfect for casual flying and aerial exploration of the GTA 5 map.",
+    "platforms": {
+      "ps5": "Right, Left, R1, R1, R1, Left, Triangle, Triangle, X, Circle, L1, L1",
+      "ps4": "Right, Left, R1, R1, R1, Left, Triangle, Triangle, X, Circle, L1, L1",
+      "ps3": "Right, Left, R1, R1, R1, Left, Triangle, Triangle, X, Circle, L1, L1",
+      "xboxSeriesX": "Right, Left, RB, RB, RB, Left, Y, Y, A, B, LB, LB",
+      "xboxOne": "Right, Left, RB, RB, RB, Left, Y, Y, A, B, LB, LB",
+      "xbox360": "Right, Left, RB, RB, RB, Left, Y, Y, A, B, LB, LB",
+      "pcConsole": "FLYSPRAY",
+      "pcPhone": "1-999-359-77729",
+      "inGamePhone": "1-999-359-77729"
+    },
+    "activationMethods": {
+      "controller": ["Find a flat open area like a road or runway", "Enter: Right, Left, R1/RB, R1/RB, R1/RB, Left, Triangle/Y, Triangle/Y, X/A, Circle/B, L1/LB, L1/LB"],
+      "phone": ["Open phone and dial 1-999-359-77729"],
+      "pc": ["Press ~ and type FLYSPRAY", "Or dial 1-999-359-77729"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The Duster needs a straight flat surface for takeoff. Spawn it on a long straight road or at the airport for best results.",
+    "faqs": [
+      {"question": "Can I take off from a road?", "answer": "Yes, but you need a long straight section of road. The Duster needs a decent runway distance to get airborne."},
+      {"question": "Is the Duster armed?", "answer": "No, the Duster is an unarmed crop duster plane. Use the Buzzard cheat if you want an armed aircraft."},
+      {"question": "How do I fly the Duster?", "answer": "Accelerate with R2/RT, pull back on the left stick to lift off, and use the left stick to control pitch and roll."},
+      {"question": "Where is the best place to take off?", "answer": "The airport runways and the long straight highway in the desert are the best takeoff locations."},
+      {"question": "Can the Duster do stunts?", "answer": "The Duster is capable of basic aerobatic maneuvers like barrel rolls and loops, though it is not the most agile plane."}
+    ],
+    "tags": ["duster", "plane", "aircraft", "flying", "crop duster"],
+    "dateAdded": "2024-03-10",
+    "popular": false
+  },
+  {
+    "id": "spawn-bmx",
+    "title": "Spawn BMX Bike",
+    "slug": "spawn-bmx",
+    "category": "vehicles",
+    "description": "Spawn a BMX bicycle with this GTA 5 cheat. The BMX is perfect for performing tricks, bunny hops, and exploring areas that larger vehicles cannot reach.",
+    "platforms": {
+      "ps5": "Left, Left, Right, Right, Left, Right, Square, Circle, Triangle, R1, R2",
+      "ps4": "Left, Left, Right, Right, Left, Right, Square, Circle, Triangle, R1, R2",
+      "ps3": "Left, Left, Right, Right, Left, Right, Square, Circle, Triangle, R1, R2",
+      "xboxSeriesX": "Left, Left, Right, Right, Left, Right, X, B, Y, RB, RT",
+      "xboxOne": "Left, Left, Right, Right, Left, Right, X, B, Y, RB, RT",
+      "xbox360": "Left, Left, Right, Right, Left, Right, X, B, Y, RB, RT",
+      "pcConsole": "BANDIT",
+      "pcPhone": "1-999-226-348",
+      "inGamePhone": "1-999-226-348"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "Left, Left, Right, Right, Left, Right, Square/X, Circle/B, Triangle/Y, R1/RB, R2/RT"],
+      "phone": ["Open phone and dial 1-999-226-348"],
+      "pc": ["Press ~ and type BANDIT", "Or dial 1-999-226-348"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The BMX is great for tricks and stunts. Tap the jump button to bunny hop. Combine with Super Jump for insane air time.",
+    "faqs": [
+      {"question": "Can I do tricks on the BMX?", "answer": "Yes, the BMX is designed for tricks. You can bunny hop, spin, and perform various stunts while riding."},
+      {"question": "How do I bunny hop on the BMX?", "answer": "Press R1/RB while riding to bunny hop. The longer you hold it, the higher you jump."},
+      {"question": "Does Super Jump work with the BMX?", "answer": "Yes, combining the BMX with the Super Jump cheat creates incredible bunny hops that launch you into the air."},
+      {"question": "Is the BMX faster than running?", "answer": "The BMX is slightly faster than normal running speed and much more maneuverable in tight areas."},
+      {"question": "Can I ride the BMX up stairs?", "answer": "Yes, the BMX can be ridden up stairs, through parks, and in areas where cars cannot go."}
+    ],
+    "tags": ["bmx", "bicycle", "bike", "tricks", "stunts"],
+    "dateAdded": "2024-03-15",
+    "popular": false
+  },
+  {
+    "id": "spawn-caddy",
+    "title": "Spawn Caddy Golf Cart",
+    "slug": "spawn-caddy",
+    "category": "vehicles",
+    "description": "Spawn a Caddy golf cart with this fun GTA 5 cheat code. The tiny electric golf cart is hilariously slow but entertaining to drive around the streets of Los Santos.",
+    "platforms": {
+      "ps5": "Circle, L1, Left, R1, L2, X, R1, L1, Circle, X",
+      "ps4": "Circle, L1, Left, R1, L2, X, R1, L1, Circle, X",
+      "ps3": "Circle, L1, Left, R1, L2, X, R1, L1, Circle, X",
+      "xboxSeriesX": "B, LB, Left, RB, LT, A, RB, LB, B, A",
+      "xboxOne": "B, LB, Left, RB, LT, A, RB, LB, B, A",
+      "xbox360": "B, LB, Left, RB, LT, A, RB, LB, B, A",
+      "pcConsole": "HOLEIN1",
+      "pcPhone": "1-999-465-346-1",
+      "inGamePhone": "1-999-465-346-1"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "Circle/B, L1/LB, Left, R1/RB, L2/LT, X/A, R1/RB, L1/LB, Circle/B, X/A"],
+      "phone": ["Open phone and dial 1-999-465-346-1"],
+      "pc": ["Press ~ and type HOLEIN1", "Or dial 1-999-465-346-1"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The Caddy is extremely slow and fragile but very fun to drive. Great for comedy gameplay and challenges.",
+    "faqs": [
+      {"question": "How fast is the Caddy?", "answer": "The Caddy golf cart is one of the slowest vehicles in GTA 5 with a very low top speed. It is meant for fun, not speed."},
+      {"question": "Is the Caddy durable?", "answer": "No, the Caddy is very fragile and can be destroyed easily by even minor collisions or a few bullets."},
+      {"question": "Why would I spawn a golf cart?", "answer": "The Caddy is popular for fun gameplay, comedy videos, and self-imposed challenges like completing missions in a golf cart."},
+      {"question": "Can I take the Caddy off-road?", "answer": "The Caddy has very poor off-road capability due to its low power and small wheels."},
+      {"question": "Where do golf carts normally spawn?", "answer": "Golf carts normally spawn at the Los Santos Golf Club, but the cheat lets you spawn one anywhere."}
+    ],
+    "tags": ["caddy", "golf cart", "slow", "fun", "electric"],
+    "dateAdded": "2024-03-20",
+    "popular": false
+  },
+  {
+    "id": "spawn-sanchez",
+    "title": "Spawn Sanchez Dirt Bike",
+    "slug": "spawn-sanchez",
+    "category": "vehicles",
+    "description": "Spawn a Sanchez dirt bike with this GTA 5 cheat code. The lightweight off-road motorcycle is perfect for exploring the mountains and desert trails of San Andreas.",
+    "platforms": {
+      "ps5": "Circle, X, L1, Circle, Circle, L1, Circle, R1, R2, L2, L1, L1",
+      "ps4": "Circle, X, L1, Circle, Circle, L1, Circle, R1, R2, L2, L1, L1",
+      "ps3": "Circle, X, L1, Circle, Circle, L1, Circle, R1, R2, L2, L1, L1",
+      "xboxSeriesX": "B, A, LB, B, B, LB, B, RB, RT, LT, LB, LB",
+      "xboxOne": "B, A, LB, B, B, LB, B, RB, RT, LT, LB, LB",
+      "xbox360": "B, A, LB, B, B, LB, B, RB, RT, LT, LB, LB",
+      "pcConsole": "OFFROAD",
+      "pcPhone": "1-999-633-7623",
+      "inGamePhone": "1-999-633-7623"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "Circle/B, X/A, L1/LB, Circle/B, Circle/B, L1/LB, Circle/B, R1/RB, R2/RT, L2/LT, L1/LB, L1/LB"],
+      "phone": ["Open phone and dial 1-999-633-7623"],
+      "pc": ["Press ~ and type OFFROAD", "Or dial 1-999-633-7623"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The Sanchez is excellent for off-road riding. Lightweight and nimble on rough terrain. Great for mountain exploration.",
+    "faqs": [
+      {"question": "Is the Sanchez good off-road?", "answer": "The Sanchez is one of the best off-road vehicles in GTA 5, with excellent handling on dirt trails and mountain paths."},
+      {"question": "Can I do stunts on the Sanchez?", "answer": "Yes, the Sanchez is great for stunts including wheelies, jumps, and mountain trail riding."},
+      {"question": "Is the Sanchez fast?", "answer": "The Sanchez has moderate speed but excellent off-road handling, making it ideal for terrain that cars cannot handle."},
+      {"question": "What is the Sanchez based on?", "answer": "The Sanchez is based on various dirt bikes from Honda and Yamaha motocross lineup."},
+      {"question": "Does the Sanchez work well on roads?", "answer": "The Sanchez works on roads but is slower than sport motorcycles on pavement. It excels on off-road surfaces."}
+    ],
+    "tags": ["sanchez", "dirt bike", "offroad", "motorcycle", "trail"],
+    "dateAdded": "2024-03-25",
+    "popular": false
+  },
+  {
+    "id": "spawn-stuntplane",
+    "title": "Spawn Stunt Plane",
+    "slug": "spawn-stuntplane",
+    "category": "vehicles",
+    "description": "Spawn a Mallard Stunt Plane with this GTA 5 cheat. A nimble aerobatic aircraft perfect for performing barrel rolls, loops, and other aerial stunts across the skies.",
+    "platforms": {
+      "ps5": "Circle, Right, L1, L2, Left, R1, L1, L1, Left, Left, X, Triangle",
+      "ps4": "Circle, Right, L1, L2, Left, R1, L1, L1, Left, Left, X, Triangle",
+      "ps3": "Circle, Right, L1, L2, Left, R1, L1, L1, Left, Left, X, Triangle",
+      "xboxSeriesX": "B, Right, LB, LT, Left, RB, LB, LB, Left, Left, A, Y",
+      "xboxOne": "B, Right, LB, LT, Left, RB, LB, LB, Left, Left, A, Y",
+      "xbox360": "B, Right, LB, LT, Left, RB, LB, LB, Left, Left, A, Y",
+      "pcConsole": "BARNSTORM",
+      "pcPhone": "1-999-227-678-676",
+      "inGamePhone": "1-999-227-678-676"
+    },
+    "activationMethods": {
+      "controller": ["Find a flat open area for takeoff", "Enter: Circle/B, Right, L1/LB, L2/LT, Left, R1/RB, L1/LB, L1/LB, Left, Left, X/A, Triangle/Y"],
+      "phone": ["Open phone and dial 1-999-227-678-676"],
+      "pc": ["Press ~ and type BARNSTORM", "Or dial 1-999-227-678-676"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "The Stunt Plane needs a runway for takeoff. Best spawned at the airport or on a long straight road. Very agile in the air.",
+    "faqs": [
+      {"question": "Can the Stunt Plane do loops?", "answer": "Yes, the Mallard Stunt Plane is the most agile aircraft in GTA 5 and can perform loops, barrel rolls, and inverted flight."},
+      {"question": "Is the Stunt Plane armed?", "answer": "No, the Stunt Plane has no weapons. It is purely for aerobatic flying and exploration."},
+      {"question": "Where should I take off?", "answer": "The airport runway is ideal. Long straight roads also work if they are clear of traffic and obstacles."},
+      {"question": "How hard is the Stunt Plane to fly?", "answer": "The Stunt Plane is very responsive and nimble, making it easy to fly but requiring skill for advanced maneuvers."},
+      {"question": "Can I fly under bridges with it?", "answer": "Yes, the Stunt Plane is small and agile enough to fly under bridges and through gaps for exciting stunts."}
+    ],
+    "tags": ["stunt plane", "aircraft", "flying", "aerobatic", "mallard"],
+    "dateAdded": "2024-04-01",
+    "popular": false
+  },
+  {
+    "id": "spawn-duke-odeath",
+    "title": "Spawn Duke O'Death",
+    "slug": "spawn-duke-odeath",
+    "category": "vehicles",
+    "description": "Spawn the armored Duke O'Death muscle car with this GTA 5 cheat. This Mad Max inspired vehicle features heavy armor plating and is one of the toughest cars in the game.",
+    "platforms": {
+      "ps5": "Not available via button combo — phone only",
+      "ps4": "Not available via button combo — phone only",
+      "ps3": "Not available on PS3",
+      "xboxSeriesX": "Not available via button combo — phone only",
+      "xboxOne": "Not available via button combo — phone only",
+      "xbox360": "Not available on Xbox 360",
+      "pcConsole": "DEATHCAR",
+      "pcPhone": "1-999-332-8427",
+      "inGamePhone": "1-999-332-8427"
+    },
+    "activationMethods": {
+      "controller": ["This vehicle requires completing a challenge first", "Use the in-game phone method to spawn it", "Open phone and dial 1-999-332-8427"],
+      "phone": ["Open your phone with Up on D-pad", "Dial 1-999-332-8427", "The Duke O'Death spawns nearby"],
+      "pc": ["Press ~ and type DEATHCAR", "Or dial 1-999-332-8427 on the in-game phone"]
+    },
+    "challengeRequired": true,
+    "challengeInstructions": ["Complete the 'Duel' random event as Franklin on the highway", "The Duel event appears on the Great Ocean Highway north of Los Santos", "You must beat the driver in a race to complete the event", "After completing the event, the Duke O'Death becomes available", "The event may take multiple in-game days to appear"],
+    "notes": "The Duke O'Death requires completing the Duel random event before the cheat becomes available. Only available on PS4/PS5/Xbox One/Xbox Series X and PC versions — NOT on PS3 or Xbox 360.",
+    "faqs": [
+      {"question": "How do I unlock the Duke O'Death?", "answer": "Complete the Duel random event as Franklin on the Great Ocean Highway. After winning the race, the cheat becomes available."},
+      {"question": "Is the Duke O'Death bulletproof?", "answer": "The Duke O'Death has heavy armor and is highly resistant to bullets but not completely bulletproof. It can take significantly more damage than normal cars."},
+      {"question": "Is the Duke O'Death available on last gen?", "answer": "No, the Duke O'Death is only available on PS4, PS5, Xbox One, Xbox Series X, and PC versions of GTA 5."},
+      {"question": "What is the Duke O'Death based on?", "answer": "The Duke O'Death is based on a 1968-1970 Dodge Charger with Mad Max style armor modifications."},
+      {"question": "Can I store the Duke O'Death?", "answer": "Cheated versions cannot be stored, but you can find the Duke O'Death at specific locations after unlocking it and store that version."}
+    ],
+    "tags": ["duke", "armored", "muscle car", "mad max", "challenge"],
+    "dateAdded": "2024-04-05",
+    "popular": false
+  },
+  {
+    "id": "spawn-dodo",
+    "title": "Spawn Dodo Seaplane",
+    "slug": "spawn-dodo",
+    "category": "vehicles",
+    "description": "Spawn the Dodo seaplane with this GTA 5 cheat code. This amphibious aircraft can take off and land on both water and land, making it perfect for island exploration.",
+    "platforms": {
+      "ps5": "Not available via button combo — phone only",
+      "ps4": "Not available via button combo — phone only",
+      "ps3": "Not available on PS3",
+      "xboxSeriesX": "Not available via button combo — phone only",
+      "xboxOne": "Not available via button combo — phone only",
+      "xbox360": "Not available on Xbox 360",
+      "pcConsole": "EXTINCT",
+      "pcPhone": "1-999-398-4628",
+      "inGamePhone": "1-999-398-4628"
+    },
+    "activationMethods": {
+      "controller": ["This vehicle requires completing a challenge first", "Use the in-game phone to spawn it", "Dial 1-999-398-4628"],
+      "phone": ["Open phone and dial 1-999-398-4628", "Spawn near water for best results"],
+      "pc": ["Press ~ and type EXTINCT", "Or dial 1-999-398-4628"]
+    },
+    "challengeRequired": true,
+    "challengeInstructions": ["Complete the Wildlife Photography Challenge", "Use the in-game SnapMatic camera to photograph all 20 animals", "The animal photos must be sent to the in-game contact", "After completing all 20 photos, the Dodo seaplane becomes available", "Check the in-game checklist to track your progress"],
+    "notes": "The Dodo requires completing the Wildlife Photography Challenge. Only available on PS4/PS5/Xbox One/Xbox Series X and PC — NOT on PS3 or Xbox 360. Spawn near water for water takeoff.",
+    "faqs": [
+      {"question": "How do I unlock the Dodo?", "answer": "Complete the Wildlife Photography Challenge by photographing all 20 animals with your in-game phone camera."},
+      {"question": "Can the Dodo land on water?", "answer": "Yes, the Dodo is a seaplane with pontoon floats that allow it to take off and land on water surfaces."},
+      {"question": "Is the Dodo available on PS3 and Xbox 360?", "answer": "No, the Dodo seaplane is only available on PS4, PS5, Xbox One, Xbox Series X, and PC versions."},
+      {"question": "Is the Dodo fast?", "answer": "The Dodo is a slow but steady aircraft. It is designed for exploration rather than speed."},
+      {"question": "Where should I spawn the Dodo?", "answer": "Spawn it near a body of water for easy takeoff, or on a long flat road if you prefer a ground takeoff."}
+    ],
+    "tags": ["dodo", "seaplane", "aircraft", "water", "amphibious", "challenge"],
+    "dateAdded": "2024-04-10",
+    "popular": false
+  },
+  {
+    "id": "spawn-kraken",
+    "title": "Spawn Kraken Submarine",
+    "slug": "spawn-kraken",
+    "category": "vehicles",
+    "description": "Spawn the Kraken submarine with this GTA 5 cheat code. Explore the ocean depths and discover underwater secrets with this personal submarine vehicle.",
+    "platforms": {
+      "ps5": "Not available via button combo — phone only",
+      "ps4": "Not available via button combo — phone only",
+      "ps3": "Not available on PS3",
+      "xboxSeriesX": "Not available via button combo — phone only",
+      "xboxOne": "Not available via button combo — phone only",
+      "xbox360": "Not available on Xbox 360",
+      "pcConsole": "BUBBLES",
+      "pcPhone": "1-999-282-2537",
+      "inGamePhone": "1-999-282-2537"
+    },
+    "activationMethods": {
+      "controller": ["This vehicle requires completing a challenge first", "Must be near water to spawn", "Use the phone to dial 1-999-282-2537"],
+      "phone": ["Go to any ocean coastline or dock", "Open phone and dial 1-999-282-2537", "The Kraken spawns in the water nearby"],
+      "pc": ["Press ~ and type BUBBLES", "Or dial 1-999-282-2537 while near water"]
+    },
+    "challengeRequired": true,
+    "challengeInstructions": ["Complete the Wildlife Photography Challenge (same as Dodo)", "Photograph all 20 animals using SnapMatic", "Send all photos to the in-game contact", "The Kraken becomes available after completion", "You must be near water to spawn it"],
+    "notes": "The Kraken requires completing the Wildlife Photography Challenge. Only available on enhanced versions (PS4/PS5/Xbox One/Series X/PC). Must be spawned near water.",
+    "faqs": [
+      {"question": "How do I unlock the Kraken?", "answer": "Complete the Wildlife Photography Challenge by photographing all 20 animals, same as the Dodo seaplane unlock."},
+      {"question": "How deep can the Kraken go?", "answer": "The Kraken can dive to the ocean floor, allowing you to explore the deepest parts of the GTA 5 ocean."},
+      {"question": "Is the Kraken available on old gen?", "answer": "No, the Kraken is only available on PS4, PS5, Xbox One, Xbox Series X, and PC versions of GTA 5."},
+      {"question": "Can I find anything underwater?", "answer": "Yes, the ocean floor has hidden items, shipwrecks, and Easter eggs to discover with the submarine."},
+      {"question": "How do I surface the Kraken?", "answer": "Press the ascend button to rise to the surface. The controls are similar to aircraft but in water."}
+    ],
+    "tags": ["kraken", "submarine", "underwater", "ocean", "challenge"],
+    "dateAdded": "2024-04-15",
+    "popular": false
+  },
+  {
+    "id": "change-weather",
+    "title": "Change Weather Cycle",
+    "slug": "change-weather",
+    "category": "weather",
+    "description": "Cycle through all weather types in GTA 5 with this cheat code. Each activation changes to the next weather pattern including sunny, cloudy, rainy, stormy, foggy and more.",
+    "platforms": {
+      "ps5": "R2, X, L1, L1, L2, L2, L2, Square",
+      "ps4": "R2, X, L1, L1, L2, L2, L2, Square",
+      "ps3": "R2, X, L1, L1, L2, L2, L2, Square",
+      "xboxSeriesX": "RT, A, LB, LB, LT, LT, LT, X",
+      "xboxOne": "RT, A, LB, LB, LT, LT, LT, X",
+      "xbox360": "RT, A, LB, LB, LT, LT, LT, X",
+      "pcConsole": "MAKEITRAIN",
+      "pcPhone": "1-999-625-348-7246",
+      "inGamePhone": "1-999-625-348-7246"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "R2/RT, X/A, L1/LB, L1/LB, L2/LT, L2/LT, L2/LT, Square/X", "Enter multiple times to cycle through all weather types"],
+      "phone": ["Open phone and dial 1-999-625-348-7246"],
+      "pc": ["Press ~ and type MAKEITRAIN", "Or dial 1-999-625-348-7246"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Each activation cycles to the next weather type. The cycle goes: sunny, clear, cloudy, smoggy, overcast, rainy, stormy, clearing, neutral, snowy. Keep entering to find your preferred weather.",
+    "faqs": [
+      {"question": "What weather types are available?", "answer": "The weather cycles through sunny, clear, cloudy, smoggy, overcast, rainy, stormy, clearing, neutral, and snowy conditions."},
+      {"question": "Can I get snow with this cheat?", "answer": "Yes, continuing to cycle through the weather types will eventually reach snowy conditions."},
+      {"question": "Does weather affect gameplay?", "answer": "Yes, rain makes roads slippery, storms reduce visibility, and different weather conditions affect driving and flying."},
+      {"question": "Is the weather change permanent?", "answer": "The weather change lasts until the game naturally cycles to new weather or you enter the cheat again."},
+      {"question": "Does weather affect missions?", "answer": "Weather changes from the cheat persist during missions but some missions have scripted weather that overrides it."}
+    ],
+    "tags": ["weather", "rain", "storm", "sunny", "snow"],
+    "dateAdded": "2024-01-20",
+    "popular": false
+  },
+  {
+    "id": "slippery-cars",
+    "title": "Slippery Cars",
+    "slug": "slippery-cars",
+    "category": "weather",
+    "description": "Make all vehicles slide around like they are on ice with the Slippery Cars cheat in GTA 5. Reduces tire grip to near zero making driving hilariously difficult and chaotic.",
+    "platforms": {
+      "ps5": "Triangle, R1, R1, Left, R1, L1, R2, L1",
+      "ps4": "Triangle, R1, R1, Left, R1, L1, R2, L1",
+      "ps3": "Triangle, R1, R1, Left, R1, L1, R2, L1",
+      "xboxSeriesX": "Y, RB, RB, Left, RB, LB, RT, LB",
+      "xboxOne": "Y, RB, RB, Left, RB, LB, RT, LB",
+      "xbox360": "Y, RB, RB, Left, RB, LB, RT, LB",
+      "pcConsole": "SNOWDAY",
+      "pcPhone": "1-999-766-9329",
+      "inGamePhone": "1-999-766-9329"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "Triangle/Y, R1/RB, R1/RB, Left, R1/RB, L1/LB, R2/RT, L1/LB", "All vehicles now have zero grip"],
+      "phone": ["Open phone and dial 1-999-766-9329"],
+      "pc": ["Press ~ and type SNOWDAY", "Or dial 1-999-766-9329"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "This cheat makes driving extremely difficult as all vehicles lose traction. Great for fun but not recommended during missions. Affects all vehicles including NPC cars.",
+    "faqs": [
+      {"question": "Does Slippery Cars affect all vehicles?", "answer": "Yes, all vehicles including NPC cars, police cars, and your own vehicles will have reduced grip."},
+      {"question": "Can I still drive with Slippery Cars on?", "answer": "You can drive but it is very difficult. Vehicles slide around like they are on ice, making turns nearly impossible at speed."},
+      {"question": "Is Slippery Cars useful for anything?", "answer": "It is mainly for fun and comedy. Many players enjoy the chaos of watching all traffic slide around uncontrollably."},
+      {"question": "Does it work on motorcycles?", "answer": "Yes, motorcycles are also affected and become even harder to control than cars with this cheat active."},
+      {"question": "How do I turn off Slippery Cars?", "answer": "Re-enter the cheat code to toggle it off, or reload a save file."}
+    ],
+    "tags": ["slippery", "drift", "ice", "snow", "driving"],
+    "dateAdded": "2024-05-01",
+    "popular": false
+  },
+  {
+    "id": "moon-gravity",
+    "title": "Moon Gravity / Low Gravity",
+    "slug": "moon-gravity",
+    "category": "weather",
+    "description": "Experience low gravity like walking on the moon with this GTA 5 cheat code. Everything floats longer when jumping or launched into the air. Vehicles fly off ramps spectacularly.",
+    "platforms": {
+      "ps5": "Left, Left, L1, R1, L1, Right, Left, L1, Left",
+      "ps4": "Left, Left, L1, R1, L1, Right, Left, L1, Left",
+      "ps3": "Left, Left, L1, R1, L1, Right, Left, L1, Left",
+      "xboxSeriesX": "Left, Left, LB, RB, LB, Right, Left, LB, Left",
+      "xboxOne": "Left, Left, LB, RB, LB, Right, Left, LB, Left",
+      "xbox360": "Left, Left, LB, RB, LB, Right, Left, LB, Left",
+      "pcConsole": "FLOATER",
+      "pcPhone": "1-999-356-2837",
+      "inGamePhone": "1-999-356-2837"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "Left, Left, L1/LB, R1/RB, L1/LB, Right, Left, L1/LB, Left", "Gravity is now reduced for everything"],
+      "phone": ["Open phone and dial 1-999-356-2837"],
+      "pc": ["Press ~ and type FLOATER", "Or dial 1-999-356-2837"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Moon Gravity affects everything — your character, vehicles, NPCs, and objects. Vehicles hit ramps and fly incredibly far. Be careful of fall damage when gravity returns to normal.",
+    "faqs": [
+      {"question": "Does Moon Gravity affect vehicles?", "answer": "Yes, vehicles are affected and will launch incredibly far off ramps and jumps. Great for stunt jumps."},
+      {"question": "Can I die from falling with Moon Gravity?", "answer": "You fall slower with moon gravity but can still take damage from very high falls, especially if the cheat deactivates mid-air."},
+      {"question": "Does Moon Gravity work with Super Jump?", "answer": "Yes, combining Moon Gravity with Super Jump lets you jump incredible distances and heights."},
+      {"question": "Are NPCs affected by Moon Gravity?", "answer": "Yes, all NPCs and objects in the game world are affected by the reduced gravity."},
+      {"question": "How do I turn off Moon Gravity?", "answer": "Re-enter the cheat code to toggle moon gravity off and return to normal gravity."}
+    ],
+    "tags": ["moon", "gravity", "low gravity", "float", "jump"],
+    "dateAdded": "2024-01-20",
+    "popular": true
+  },
+  {
+    "id": "super-jump",
+    "title": "Super Jump",
+    "slug": "super-jump",
+    "category": "weather",
+    "description": "Jump incredibly high with the Super Jump cheat in GTA 5. Hold the jump button to leap over buildings and reach normally inaccessible areas. One of the most fun cheats available.",
+    "platforms": {
+      "ps5": "Left, Left, Triangle, Triangle, Right, Right, Left, Right, Square, R1, R2",
+      "ps4": "Left, Left, Triangle, Triangle, Right, Right, Left, Right, Square, R1, R2",
+      "ps3": "Left, Left, Triangle, Triangle, Right, Right, Left, Right, Square, R1, R2",
+      "xboxSeriesX": "Left, Left, Y, Y, Right, Right, Left, Right, X, RB, RT",
+      "xboxOne": "Left, Left, Y, Y, Right, Right, Left, Right, X, RB, RT",
+      "xbox360": "Left, Left, Y, Y, Right, Right, Left, Right, X, RB, RT",
+      "pcConsole": "HOPTOIT",
+      "pcPhone": "1-999-467-86-48",
+      "inGamePhone": "1-999-467-86-48"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "Left, Left, Triangle/Y, Triangle/Y, Right, Right, Left, Right, Square/X, R1/RB, R2/RT", "Hold jump to leap higher"],
+      "phone": ["Open phone and dial 1-999-467-86-48"],
+      "pc": ["Press ~ and type HOPTOIT", "Or dial 1-999-467-86-48"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Hold the jump button longer for higher jumps. Use a parachute for safe landing from high jumps. Combine with Moon Gravity for insane heights.",
+    "faqs": [
+      {"question": "How high can Super Jump go?", "answer": "Super Jump lets you leap several stories high, easily clearing buildings and reaching rooftops."},
+      {"question": "Will I take fall damage from Super Jump?", "answer": "Yes, you can take fall damage from the height you reach. Use the Invincibility or Parachute cheat to land safely."},
+      {"question": "Can I combine Super Jump with other cheats?", "answer": "Yes, Super Jump works great with Moon Gravity for extreme height and Invincibility for safe landings."},
+      {"question": "Does holding the button make you jump higher?", "answer": "Yes, the longer you hold the jump button, the higher you will jump."},
+      {"question": "Does Super Jump work on bicycles?", "answer": "Super Jump does not directly affect vehicles, but it makes on-foot exploration much more dynamic."}
+    ],
+    "tags": ["jump", "super", "high", "hoptoit", "leap"],
+    "dateAdded": "2024-01-20",
+    "popular": true
+  },
+  {
+    "id": "fast-run",
+    "title": "Fast Run",
+    "slug": "fast-run",
+    "category": "weather",
+    "description": "Run at superhuman speed with the Fast Run cheat in GTA 5. Your character moves significantly faster than normal making it easy to travel on foot across Los Santos.",
+    "platforms": {
+      "ps5": "Triangle, Left, Right, Right, L2, L1, Square",
+      "ps4": "Triangle, Left, Right, Right, L2, L1, Square",
+      "ps3": "Triangle, Left, Right, Right, L2, L1, Square",
+      "xboxSeriesX": "Y, Left, Right, Right, LT, LB, X",
+      "xboxOne": "Y, Left, Right, Right, LT, LB, X",
+      "xbox360": "Y, Left, Right, Right, LT, LB, X",
+      "pcConsole": "CATCHME",
+      "pcPhone": "1-999-228-2463",
+      "inGamePhone": "1-999-228-2463"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "Triangle/Y, Left, Right, Right, L2/LT, L1/LB, Square/X"],
+      "phone": ["Open phone and dial 1-999-228-2463"],
+      "pc": ["Press ~ and type CATCHME", "Or dial 1-999-228-2463"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Fast Run significantly increases your running speed. Be careful around traffic as you can easily run into vehicles. Works great with Super Jump.",
+    "faqs": [
+      {"question": "How much faster is Fast Run?", "answer": "Fast Run approximately doubles your character's running speed, making on-foot travel much more efficient."},
+      {"question": "Can I outrun police with Fast Run?", "answer": "Fast Run makes you faster than most NPCs but police cars will still catch you. It helps with on-foot escapes though."},
+      {"question": "Does Fast Run stack with other cheats?", "answer": "Fast Run works well combined with Super Jump for incredibly fast and dynamic on-foot movement."},
+      {"question": "Is Fast Run dangerous?", "answer": "Running at high speed means you can accidentally run into traffic or obstacles, which can cause damage or death."},
+      {"question": "Does Fast Run affect swimming?", "answer": "No, Fast Run only affects running speed. Use the Fast Swim cheat for faster swimming."}
+    ],
+    "tags": ["fast", "run", "speed", "sprint", "catchme"],
+    "dateAdded": "2024-02-01",
+    "popular": false
+  },
+  {
+    "id": "fast-swim",
+    "title": "Fast Swim",
+    "slug": "fast-swim",
+    "category": "weather",
+    "description": "Swim at superhuman speed with the Fast Swim cheat in GTA 5. Move through water much faster than normal making ocean exploration and water escapes much easier.",
+    "platforms": {
+      "ps5": "Left, Left, L1, Right, Right, R2, Left, L2, Right",
+      "ps4": "Left, Left, L1, Right, Right, R2, Left, L2, Right",
+      "ps3": "Left, Left, L1, Right, Right, R2, Left, L2, Right",
+      "xboxSeriesX": "Left, Left, LB, Right, Right, RT, Left, LT, Right",
+      "xboxOne": "Left, Left, LB, Right, Right, RT, Left, LT, Right",
+      "xbox360": "Left, Left, LB, Right, Right, RT, Left, LT, Right",
+      "pcConsole": "GOTGILLS",
+      "pcPhone": "1-999-468-44557",
+      "inGamePhone": "1-999-468-44557"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "Left, Left, L1/LB, Right, Right, R2/RT, Left, L2/LT, Right"],
+      "phone": ["Open phone and dial 1-999-468-44557"],
+      "pc": ["Press ~ and type GOTGILLS", "Or dial 1-999-468-44557"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Fast Swim greatly increases swimming speed both on the surface and underwater. Great for ocean exploration but does not increase breath capacity underwater.",
+    "faqs": [
+      {"question": "Does Fast Swim work underwater?", "answer": "Yes, Fast Swim increases speed both on the water surface and while diving underwater."},
+      {"question": "Does Fast Swim increase breath capacity?", "answer": "No, Fast Swim only increases speed. Your lung capacity remains the same so plan your dives carefully."},
+      {"question": "Is Fast Swim useful for missions?", "answer": "Yes, several missions involve water travel and Fast Swim can save significant time."},
+      {"question": "Can I combine Fast Swim with other cheats?", "answer": "Fast Swim works alongside other cheats. Combine with Invincibility for worry-free underwater exploration."},
+      {"question": "Does Fast Swim affect boats?", "answer": "No, Fast Swim only affects your character's swimming speed, not vehicle water speed."}
+    ],
+    "tags": ["swim", "fast", "water", "ocean", "gotgills"],
+    "dateAdded": "2024-02-01",
+    "popular": false
+  },
+  {
+    "id": "skyfall",
+    "title": "Skyfall",
+    "slug": "skyfall",
+    "category": "weather",
+    "description": "Get teleported high into the sky and freefall with the Skyfall cheat in GTA 5. You spawn thousands of feet in the air and plummet toward the ground in an epic skydive.",
+    "platforms": {
+      "ps5": "L1, L2, R1, R2, Left, Right, Left, Right, L1, L2, R1, R2, Left, Right, Left, Right",
+      "ps4": "L1, L2, R1, R2, Left, Right, Left, Right, L1, L2, R1, R2, Left, Right, Left, Right",
+      "ps3": "L1, L2, R1, R2, Left, Right, Left, Right, L1, L2, R1, R2, Left, Right, Left, Right",
+      "xboxSeriesX": "LB, LT, RB, RT, Left, Right, Left, Right, LB, LT, RB, RT, Left, Right, Left, Right",
+      "xboxOne": "LB, LT, RB, RT, Left, Right, Left, Right, LB, LT, RB, RT, Left, Right, Left, Right",
+      "xbox360": "LB, LT, RB, RT, Left, Right, Left, Right, LB, LT, RB, RT, Left, Right, Left, Right",
+      "pcConsole": "SKYFALL",
+      "pcPhone": "1-999-759-3255",
+      "inGamePhone": "1-999-759-3255"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "L1/LB, L2/LT, R1/RB, R2/RT, Left, Right, Left, Right, L1/LB, L2/LT, R1/RB, R2/RT, Left, Right, Left, Right", "You are instantly teleported into the sky"],
+      "phone": ["Open phone and dial 1-999-759-3255"],
+      "pc": ["Press ~ and type SKYFALL", "Or dial 1-999-759-3255"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "You will die on impact unless you use the Invincibility cheat or have a parachute. Spawn a parachute first for a safe landing. Can be reactivated to skydive again immediately.",
+    "faqs": [
+      {"question": "Will I die from Skyfall?", "answer": "Yes, without the Invincibility cheat or a parachute, you will die on impact with the ground."},
+      {"question": "Can I survive Skyfall?", "answer": "Use the Invincibility cheat or spawn a parachute before activating Skyfall to survive the fall."},
+      {"question": "How high does Skyfall teleport you?", "answer": "Skyfall teleports you to the maximum height in the game, giving you a long and scenic freefall."},
+      {"question": "Can I use Skyfall repeatedly?", "answer": "Yes, you can keep entering the Skyfall cheat to continuously teleport back to the sky for unlimited skydiving."},
+      {"question": "Does Skyfall work with Moon Gravity?", "answer": "Yes, Moon Gravity makes the Skyfall descent much slower and more floaty, giving you more airtime."}
+    ],
+    "tags": ["skyfall", "sky", "fall", "skydive", "teleport"],
+    "dateAdded": "2024-02-15",
+    "popular": false
+  },
+  {
+    "id": "slow-motion",
+    "title": "Slow Motion",
+    "slug": "slow-motion",
+    "category": "weather",
+    "description": "Slow down the entire game world with the Slow Motion cheat in GTA 5. Everything moves in slow motion including your character, NPCs, vehicles and all game physics.",
+    "platforms": {
+      "ps5": "Triangle, Left, Right, Right, Square, R2, R1",
+      "ps4": "Triangle, Left, Right, Right, Square, R2, R1",
+      "ps3": "Triangle, Left, Right, Right, Square, R2, R1",
+      "xboxSeriesX": "Y, Left, Right, Right, X, RT, RB",
+      "xboxOne": "Y, Left, Right, Right, X, RT, RB",
+      "xbox360": "Y, Left, Right, Right, X, RT, RB",
+      "pcConsole": "SLOWMO",
+      "pcPhone": "1-999-756-966",
+      "inGamePhone": "1-999-756-966"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "Triangle/Y, Left, Right, Right, Square/X, R2/RT, R1/RB", "Enter up to 3 times for slower speeds"],
+      "phone": ["Open phone and dial 1-999-756-966"],
+      "pc": ["Press ~ and type SLOWMO", "Or dial 1-999-756-966"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Entering the cheat multiple times increases the slow motion effect. Enter it a fourth time to return to normal speed. Has three levels of slowness.",
+    "faqs": [
+      {"question": "How many levels of slow motion are there?", "answer": "There are three levels. Enter the cheat once for slight slowdown, twice for slower, and three times for maximum slow motion."},
+      {"question": "How do I return to normal speed?", "answer": "Enter the cheat a fourth time to cycle back to normal game speed."},
+      {"question": "Does Slow Motion affect everything?", "answer": "Yes, everything in the game world is slowed down including your character, NPCs, vehicles, bullets, and physics."},
+      {"question": "Is Slow Motion useful in combat?", "answer": "Yes, slow motion gives you more time to aim and react during combat, similar to the game's special ability."},
+      {"question": "Does Slow Motion affect the game clock?", "answer": "In-game time continues normally — only the visual and gameplay speed is affected."}
+    ],
+    "tags": ["slow motion", "time", "slowmo", "matrix", "speed"],
+    "dateAdded": "2024-03-01",
+    "popular": false
+  },
+  {
+    "id": "slow-motion-aim",
+    "title": "Slow Motion Aim",
+    "slug": "slow-motion-aim",
+    "category": "weather",
+    "description": "Activate slow motion only while aiming your weapon with this GTA 5 cheat code. Time slows down when you aim giving you a tactical advantage in every gunfight.",
+    "platforms": {
+      "ps5": "Square, L2, R1, Triangle, Left, Square, L2, Right, X",
+      "ps4": "Square, L2, R1, Triangle, Left, Square, L2, Right, X",
+      "ps3": "Square, L2, R1, Triangle, Left, Square, L2, Right, X",
+      "xboxSeriesX": "X, LT, RB, Y, Left, X, LT, Right, A",
+      "xboxOne": "X, LT, RB, Y, Left, X, LT, Right, A",
+      "xbox360": "X, LT, RB, Y, Left, X, LT, Right, A",
+      "pcConsole": "DEADEYE",
+      "pcPhone": "1-999-332-3393",
+      "inGamePhone": "1-999-332-3393"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "Square/X, L2/LT, R1/RB, Triangle/Y, Left, Square/X, L2/LT, Right, X/A", "Aim your weapon to activate slow motion"],
+      "phone": ["Open phone and dial 1-999-332-3393"],
+      "pc": ["Press ~ and type DEADEYE", "Or dial 1-999-332-3393"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Slow motion only activates while aiming. Enter the cheat up to 3 times for increased slow motion levels. Fourth entry returns to normal. Similar to Dead Eye in Red Dead Redemption.",
+    "faqs": [
+      {"question": "How does Slow Motion Aim work?", "answer": "Time only slows down when you are aiming a weapon. When you stop aiming, time returns to normal speed."},
+      {"question": "Does this stack like regular Slow Motion?", "answer": "Yes, enter it up to 3 times for increasing levels of slow motion while aiming. The fourth entry resets to normal."},
+      {"question": "Is this better than regular Slow Motion?", "answer": "Slow Motion Aim is more tactical because it only activates during combat aiming, leaving normal gameplay at regular speed."},
+      {"question": "Does it work with all weapons?", "answer": "Yes, Slow Motion Aim works with all weapons that have an aim-down-sights function."},
+      {"question": "Can I use this in missions?", "answer": "Yes, this cheat is very helpful during difficult combat missions, giving you extra time to line up shots."}
+    ],
+    "tags": ["slow motion", "aim", "deadeye", "combat", "tactical"],
+    "dateAdded": "2024-03-01",
+    "popular": false
+  },
+  {
+    "id": "special-ability",
+    "title": "Special Ability Refill",
+    "slug": "special-ability",
+    "category": "skills",
+    "description": "Instantly refill your character's special ability meter with this GTA 5 cheat. Works for Franklin's driving focus, Michael's bullet time, and Trevor's invincible rage mode.",
+    "platforms": {
+      "ps5": "X, X, Square, R1, L1, X, Right, Left, X",
+      "ps4": "X, X, Square, R1, L1, X, Right, Left, X",
+      "ps3": "X, X, Square, R1, L1, X, Right, Left, X",
+      "xboxSeriesX": "A, A, X, RB, LB, A, Right, Left, A",
+      "xboxOne": "A, A, X, RB, LB, A, Right, Left, A",
+      "xbox360": "A, A, X, RB, LB, A, Right, Left, A",
+      "pcConsole": "POWERUP",
+      "pcPhone": "1-999-769-3787",
+      "inGamePhone": "1-999-769-3787"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "X/A, X/A, Square/X, R1/RB, L1/LB, X/A, Right, Left, X/A", "Your special ability bar is fully recharged"],
+      "phone": ["Open phone and dial 1-999-769-3787"],
+      "pc": ["Press ~ and type POWERUP", "Or dial 1-999-769-3787"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Refills whichever character you are currently playing as. Franklin gets driving slow motion, Michael gets bullet time, and Trevor gets damage resistance and extra damage.",
+    "faqs": [
+      {"question": "What does each character's special ability do?", "answer": "Franklin slows time while driving, Michael gets bullet time during combat, and Trevor takes less damage and deals more damage."},
+      {"question": "Can I use this cheat repeatedly?", "answer": "Yes, use it as many times as needed to keep your special ability meter full."},
+      {"question": "Does this work for all three characters?", "answer": "Yes, it refills the special ability of whichever character you are currently playing as."},
+      {"question": "Is the special ability useful?", "answer": "Special abilities are very powerful and can help you survive difficult missions and combat situations."},
+      {"question": "Does this cheat disable achievements?", "answer": "Yes, like all cheats this will disable achievements for your current session."}
+    ],
+    "tags": ["special", "ability", "refill", "powerup", "skill"],
+    "dateAdded": "2024-02-01",
+    "popular": false
+  },
+  {
+    "id": "drunk-mode",
+    "title": "Drunk Mode",
+    "slug": "drunk-mode",
+    "category": "skills",
+    "description": "Make your character stumble around drunk with the Drunk Mode cheat in GTA 5. Your character wobbles, vision becomes blurry, and driving becomes nearly impossible.",
+    "platforms": {
+      "ps5": "Triangle, Right, Right, Left, Right, Square, Circle, Left",
+      "ps4": "Triangle, Right, Right, Left, Right, Square, Circle, Left",
+      "ps3": "Triangle, Right, Right, Left, Right, Square, Circle, Left",
+      "xboxSeriesX": "Y, Right, Right, Left, Right, X, B, Left",
+      "xboxOne": "Y, Right, Right, Left, Right, X, B, Left",
+      "xbox360": "Y, Right, Right, Left, Right, X, B, Left",
+      "pcConsole": "LIQUOR",
+      "pcPhone": "1-999-547-861",
+      "inGamePhone": "1-999-547-861"
+    },
+    "activationMethods": {
+      "controller": ["Enter during gameplay", "Triangle/Y, Right, Right, Left, Right, Square/X, Circle/B, Left"],
+      "phone": ["Open phone and dial 1-999-547-861"],
+      "pc": ["Press ~ and type LIQUOR", "Or dial 1-999-547-861"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Drunk Mode makes your character stagger and blurs the screen. Driving becomes very difficult. A fun challenge cheat to make gameplay harder.",
+    "faqs": [
+      {"question": "What does Drunk Mode do?", "answer": "Drunk Mode makes your character stagger while walking, blurs your vision, and makes controlling vehicles extremely difficult."},
+      {"question": "Can I drive while drunk?", "answer": "You can drive but control is severely impaired. Your vehicle will swerve unpredictably."},
+      {"question": "How do I sober up?", "answer": "The drunk effect wears off over time, or you can use the code again to toggle it off. Reloading a save also works."},
+      {"question": "Is Drunk Mode useful?", "answer": "It is mainly for fun and self-imposed challenges. Some players enjoy trying to complete missions while drunk."},
+      {"question": "Does Drunk Mode affect combat?", "answer": "Yes, your aim will be impaired and movement will be sluggish, making combat more challenging."}
+    ],
+    "tags": ["drunk", "alcohol", "stagger", "blur", "fun"],
+    "dateAdded": "2024-03-10",
+    "popular": false
+  },
+  {
+    "id": "director-mode",
+    "title": "Director Mode",
+    "slug": "director-mode",
+    "category": "skills",
+    "description": "Activate Director Mode in GTA 5 to control the game like a movie set. Play as any NPC, control time and weather, and create cinematic scenes in the game world.",
+    "platforms": {
+      "ps5": "Pause Menu > Rockstar Editor > Director Mode",
+      "ps4": "Pause Menu > Rockstar Editor > Director Mode",
+      "ps3": "Not available on PS3",
+      "xboxSeriesX": "Pause Menu > Rockstar Editor > Director Mode",
+      "xboxOne": "Pause Menu > Rockstar Editor > Director Mode",
+      "xbox360": "Not available on Xbox 360",
+      "pcConsole": "JRTALENT",
+      "pcPhone": "Not available via phone",
+      "inGamePhone": "Not available via phone"
+    },
+    "activationMethods": {
+      "controller": ["Open the Pause Menu", "Navigate to Rockstar Editor", "Select Director Mode", "Choose your actor and scene settings"],
+      "phone": ["Director Mode is accessed through the Pause Menu, not the phone"],
+      "pc": ["Press ~ and type JRTALENT", "Or access through Pause Menu > Rockstar Editor"]
+    },
+    "challengeRequired": false,
+    "challengeInstructions": [],
+    "notes": "Director Mode is only available on PS4, PS5, Xbox One, Xbox Series X, and PC. Not available on last-gen consoles. Accessed primarily through the Rockstar Editor menu.",
+    "faqs": [
+      {"question": "What can I do in Director Mode?", "answer": "Play as any NPC character, control weather and time of day, spawn vehicles, toggle wanted levels, and create cinematic scenes."},
+      {"question": "Is Director Mode available on PS3?", "answer": "No, Director Mode is only available on PS4, PS5, Xbox One, Xbox Series X, and PC versions."},
+      {"question": "Can I record in Director Mode?", "answer": "Yes, Director Mode is designed to work with the Rockstar Editor for recording and editing gameplay clips."},
+      {"question": "Can I play as animals in Director Mode?", "answer": "Yes, you can select various animals as your character in Director Mode for unique gameplay experiences."},
+      {"question": "Does Director Mode save progress?", "answer": "No, Director Mode is separate from story mode. Any changes made in Director Mode do not affect your save game."}
+    ],
+    "tags": ["director", "editor", "rockstar", "cinematic", "mode"],
+    "dateAdded": "2024-04-01",
+    "popular": false
+  }
+]

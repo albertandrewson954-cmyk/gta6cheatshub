@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0a0a0a;
+  --bg-secondary: #111111;
+  --bg-card: #1a1a1a;
+  --primary: #ff006e;
+  --secondary: #00f5ff;
+  --text-primary: #ffffff;
+  --text-secondary: #a0a0a0;
+  --border-color: #2a2a2a;
+  --success: #00ff88;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background-color: var(--background);
+  color: var(--text-primary);
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #111111; }
+::-webkit-scrollbar-thumb { background: #2a2a2a; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #ff006e; }
+
+.glass {
+  background: rgba(26, 26, 26, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.neon-pink { box-shadow: 0 0 5px #ff006e, 0 0 10px rgba(255, 0, 110, 0.3); }
+.neon-cyan { box-shadow: 0 0 5px #00f5ff, 0 0 10px rgba(0, 245, 255, 0.3); }
+.neon-text-pink { text-shadow: 0 0 10px rgba(255, 0, 110, 0.5), 0 0 20px rgba(255, 0, 110, 0.3); }
+.neon-text-cyan { text-shadow: 0 0 10px rgba(0, 245, 255, 0.5), 0 0 20px rgba(0, 245, 255, 0.3); }
+
+.gradient-border { position: relative; }
+.gradient-border::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(135deg, #ff006e, #00f5ff, #ff006e);
+  background-size: 200% 200%;
+  animation: gradient-rotate 3s ease infinite;
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+@keyframes gradient-rotate {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.hero-grid {
+  background-image:
+    linear-gradient(rgba(255, 0, 110, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 0, 110, 0.05) 1px, transparent 1px);
+  background-size: 50px 50px;
+  animation: grid-bg-move 20s linear infinite;
+}
+
+@keyframes grid-bg-move {
+  0% { background-position: 0 0; }
+  100% { background-position: 50px 50px; }
+}
+
+.warning-box {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid rgba(234, 179, 8, 0.3);
+  background: rgba(234, 179, 8, 0.1);
+}
+
+.ad-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px dashed #2a2a2a;
+  border-radius: 0.5rem;
+  background: rgba(26, 26, 26, 0.5);
+}
+
+@media (max-width: 768px) {
+  body { padding-bottom: 64px; }
+}
