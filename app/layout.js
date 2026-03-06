@@ -1,3 +1,4 @@
+import Script from 'next/script';
 import { Bebas_Neue, Inter, JetBrains_Mono } from 'next/font/google';
 import "./globals.css";
 import Header from '@/components/Header';
@@ -23,6 +24,16 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${bebas.variable} ${inter.variable} ${jetbrains.variable}`}>
+      <head>
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-V8S8QJRQ9G" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">{`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('consent', 'default', { analytics_storage: 'denied' });
+          gtag('config', 'G-V8S8QJRQ9G');
+        `}</Script>
+      </head>
       <body className="font-body bg-background text-text-primary antialiased">
         <Header />
         <main className="min-h-screen">{children}</main>
