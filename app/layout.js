@@ -26,6 +26,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${bebas.variable} ${inter.variable} ${jetbrains.variable}`}>
       <head>
+        <Script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3613596855061864" strategy="afterInteractive" crossOrigin="anonymous" />
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-V8S8QJRQ9G" strategy="afterInteractive" />
         <Script id="google-analytics" strategy="afterInteractive">{`
           window.dataLayer = window.dataLayer || [];
