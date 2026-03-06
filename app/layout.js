@@ -20,6 +20,10 @@ export const metadata = {
   robots: { index: true, follow: true },
   alternates: { canonical: 'https://gta6cheatshub.com' },
   verification: { google: 'rhvWEX_AoKyPEIixU7R4i9qmz83cOtle2Ve3ymKbzeM' },
+  icons: {
+    icon: [{ url: '/favicon.ico' }, { url: '/icon.png', type: 'image/png', sizes: '32x32' }],
+    apple: [{ url: '/apple-icon.png', sizes: '180x180' }],
+  },
 };
 
 export default function RootLayout({ children }) {
